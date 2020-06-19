@@ -1,0 +1,31 @@
+.txttop{
+    position: absolute;
+    left: 40vw; 
+    top: 10px;
+    font-size: 100px;
+    color:white;
+}
+
+.frame {
+    position: relative;
+    text-align: center;
+}
+
+.txtbot {
+    position: absolute;
+    left: 40vw;  
+    bottom: 10px;
+    font-size: 100px;
+    color: white;
+}
+
+.form {
+    position: relative;
+    text-align: center;
+    background-color: powderblue;
+    margin-bottom: 15px;
+}
+
+form button {
+    margin-bottom: 10px;
+}
